@@ -1,5 +1,8 @@
 # gerador / <em lang="en">Generator</em>
 
+versão 2020 contém:
+- (2019). versão FCUL baseada no estilo, estrutura e componente dinâmica da versão original desenvolvida no projeto WAI-Tools
+
 [português](#pt-PT) | [english](#en)
 
 <div id="pt-PT" lang="pt-PT">
