@@ -1,5 +1,7 @@
 # gerador wt / <em lang="en">Generator wt</em>
 
+**NOTA: os autores descontinuaram a presente versão do Gerador e continuaram no repositório [gerador-2021](https://github.com/amagovpt/gerador-2021).**
+
 versão wt contém:
 - (2019). versão FCUL baseada no estilo, estrutura e componente dinâmica da versão original desenvolvida no projeto WAI-Tools
 
